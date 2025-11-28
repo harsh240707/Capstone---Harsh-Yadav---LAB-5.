@@ -1,4 +1,4 @@
-# Capstone---Harsh-Yadav---LAB-5.
+# Capstone-Harsh Yadav-LAB 5.
 ### Theme: FinTech Payment Website – PayFlex 
 
 ## 📌 Project Description
@@ -29,5 +29,5 @@ This is a responsive FinTech landing page designed using **HTML5, CSS3, and Flex
 2. Extract folder
 3. Open **index.html** in any browser
 
-## 🌐 GitHub Pages (optional)
-(Add link after deployment)
+## 🌐 GitHub Pages 
+
